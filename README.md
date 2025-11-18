@@ -1,1 +1,1 @@
-# SWT Graduation Project - Clean Start
+# SWT Graduation Project
